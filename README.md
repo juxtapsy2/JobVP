@@ -8,4 +8,6 @@ The first one is more recommended. Here's a way for Android:
 
 https://expo.dev/go?sdkVersion=50&platform=android&device=true.
 
+Run: Terminal > npx expo start
+
 *Peace*~
